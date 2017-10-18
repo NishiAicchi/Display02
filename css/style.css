@@ -1,17 +1,17 @@
 div {
-    display: block;
-    width: 250px;
-    height: 120px;
-    margin: 10px;
-    padding: 8px;
+    display: block; /*declarando el comportamiento*/
+    width: 250px;   /*colocando la medida de ancho*/
+    height: 120px;  /*colocando la medida de alto*/
+    margin: 10px;   /*modificando el margen*/
+    padding: 8px;   /*modificando el padding*/
     
 }
 
-.yellow {
-    background-color: gold;    
+.gold {
+    background-color: gold;    /*agregando color de fondo*/
 }
 
 .black {
-    background-color: black;
-    color: white;
+    background-color: black;    /*agregando color de fondo*/
+    color: white;   /*agregando color a la fuente*/
 }
