@@ -1,1 +1,1 @@
-ECHO est  activado.
+alert("Banderas Display 02")
