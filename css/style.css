@@ -1,0 +1,17 @@
+div {
+    display: block;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 8px;
+    
+}
+
+.yellow {
+    background-color: gold;    
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
